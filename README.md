@@ -2,7 +2,7 @@
 
 ## Overview
 The **ATM Simulation System** is a Python-based desktop application built with **Tkinter** that replicates common banking operations in a simulated environment.  
-It allows users to log in with a PIN, check balances, deposit funds, and withdraw money — with proper **input validation**, **error handling**, and basic **security measures**.
+It allows users to log in with a PIN, check balances, deposit funds, and withdraw money with proper **input validation**, **error handling**, and basic **security measures**.
 
 ---
 
@@ -17,7 +17,7 @@ It allows users to log in with a PIN, check balances, deposit funds, and withdra
 
 ## 🛠 Technologies Used
 - **Python 3**
-- **Tkinter** – GUI framework
+- **Tkinter** = GUI framework
 - **Pillow (PIL)** – Image processing
 
 ---
@@ -32,10 +32,10 @@ pip install pillow
 python atm_simulation.py
 ---
 ```
-## ATM-Simulation/
-│── atm_simulation.py     # Main Python script
-│── image.jpeg            # ATM banner image
-│── README.md             # Documentation
+## ATM-Simulation
+- atm_simulation.py  
+- image.jpeg           
+- README.md             
 
 ## Outputs
 <img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/fa0b5ea7-8055-43b5-9c93-ee641fb797f0" />
