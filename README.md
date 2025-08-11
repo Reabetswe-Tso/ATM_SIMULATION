@@ -27,3 +27,11 @@ It allows users to log in with a PIN, check balances, deposit funds, and withdra
 1️⃣ **Clone the repository**  
 ```bash
 git clone https://github.com/your-username/ATM-Simulation.git
+
+---
+
+## ATM-Simulation/
+│── atm_simulation.py     # Main Python script
+│── image.jpeg            # ATM banner image
+│── README.md             # Documentation
+
