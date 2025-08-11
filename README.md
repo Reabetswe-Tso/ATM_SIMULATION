@@ -38,11 +38,17 @@ python atm_simulation.py
 │── README.md             # Documentation
 
 ## Outputs
-(C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (322).png)
-![] ("C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (323).png")
-"C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (324).png"
-"C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (325).png"
-"C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (326).png"
+<img width="1920" height="1080" alt="Screenshot (322)" src="https://github.com/user-attachments/assets/fa0b5ea7-8055-43b5-9c93-ee641fb797f0" />
+
+<img width="1920" height="1080" alt="Screenshot (323)" src="https://github.com/user-attachments/assets/bbd977c4-1a13-4278-95da-422103a16aaa" />
+
+<img width="1920" height="1080" alt="Screenshot (324)" src="https://github.com/user-attachments/assets/0e6b94dc-35de-4b97-839e-586fd35ac1a9" />
+
+<img width="1920" height="1080" alt="Screenshot (325)" src="https://github.com/user-attachments/assets/7686bde5-61ae-45c2-98d1-8e236719e179" />
+
+<img width="1920" height="1080" alt="Screenshot (326)" src="https://github.com/user-attachments/assets/28fe4471-846a-494b-b4e9-549a27013b5f" />
+
+
 
 ## Future Improvements
 **Add database integration to store user accounts and transactions.**
