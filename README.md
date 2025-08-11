@@ -39,7 +39,7 @@ python atm_simulation.py
 
 ## Outputs
 (C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (322).png)
-!(C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (323).png)
+![] ("C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (323).png")
 "C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (324).png"
 "C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (325).png"
 "C:\Users\Reabetswe Tsotetsi\Desktop\GirlCode\ATM\Act1_output\Screenshot (326).png"
